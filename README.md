@@ -1,0 +1,1 @@
+# TathastuScholarProgramPythonTask-2
